@@ -4,6 +4,9 @@ def hello():
 
 
 
+#
+def greet(name):
+    return f"Hello, {name}!"
 
 
 
